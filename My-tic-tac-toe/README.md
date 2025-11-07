@@ -8,7 +8,7 @@ A modern, web-based Tic Tac Toe game built using Flask for the backend and HTML/
 - Reset button to start a new game.
 - Responsive design with hover effects and smooth transitions.
 - Backend validation to prevent invalid moves.
-- Hosted at: (https://github.com/Sangamesh080/Python-projects.git)(https://github.com/Sangamesh080/Python-projects.git)
+- Hosted at: (https://github.com/Sangamesh080/Python-projects.git)
 
 ## Prerequisites
 - Python 3.x
